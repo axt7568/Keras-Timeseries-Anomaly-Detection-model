@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#----------------------------------------------------------------------------
+# Created By  : Arjun Thangaraju
+# ---------------------------------------------------------------------------
 # Keras Time Series Anomaly Detection using HPV Data
 # Setup
 import math
